@@ -35,6 +35,8 @@ Built with **HTML, CSS, JavaScript**, and **Chart.js** for data visualization..
 ┣ 📄 README.md # Project documentation
 ```
 ---
+## Live Link
+https://abhi19-a.github.io/Attendence-Calculator/
 
 ## ⚡ How to Use
 
